@@ -1,0 +1,28 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.heading{
+    width:100%;
+    margin:0;
+    font-size:25px;
+}
+
+.note{
+    font-size:18px;
+color:black;
+}
+
+.footer{
+    font-size: 18px;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    line-height:2;
+}
+
+canvas{
+    border:5px solid rgb(67, 212, 231);
+    border-radius:20px;
+}
